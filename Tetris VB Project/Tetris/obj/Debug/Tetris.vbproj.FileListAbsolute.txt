@@ -35,3 +35,14 @@ D:\Mathijs\Documents\Workspaces\Visual Studio 2015\Projects\Tetris\Tetris\bin\De
 D:\Mathijs\Documents\Workspaces\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
 D:\Mathijs\Documents\Workspaces\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.xml
 D:\Mathijs\Documents\Workspaces\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.exe.config
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.exe
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.xml
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.pdb
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.exe
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.pdb
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.xml
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbprojResolveAssemblyReference.cache
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Form1.resources
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Resources.resources
+D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache

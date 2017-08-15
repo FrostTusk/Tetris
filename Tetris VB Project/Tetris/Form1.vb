@@ -811,4 +811,8 @@ Public Class Form1
             JokerKnop.Text = "* Used *"
         End If
     End Sub
+
+    Private Sub OpScore_Click(sender As Object, e As EventArgs) Handles OpScore.Click
+
+    End Sub
 End Class
