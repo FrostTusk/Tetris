@@ -1,6 +1,6 @@
 ﻿Option Explicit On
 Option Strict On
-Public Class Form1
+Public Class Tetris
     'Matrix van 10 breed (0 tot 9) en 20 hoog (0 tot 3)
     Dim rooster(9, 19) As Label
     'GameOver maken we aan als het spel gedaan is.

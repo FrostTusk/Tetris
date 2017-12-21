@@ -46,3 +46,14 @@ D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbproj
 D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Form1.resources
 D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Resources.resources
 D:\Mathijs\Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.exe.config
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.exe
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.xml
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.pdb
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.exe
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.pdb
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\bin\Debug\Tetris.xml
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbprojResolveAssemblyReference.cache
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Tetris.resources
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.Resources.resources
+D:\Mathijs\Documents\My Documents\Git\Tetris\Tetris VB Project\Tetris\obj\Debug\Tetris.vbproj.GenerateResource.Cache
